@@ -7,4 +7,4 @@
 4. Dark, Light, Blue themes are available
 
 # Visit My Website
-<a>http://meranadeepbhaduri.me/</a>
+<a target = '_blank'>http://meranadeepbhaduri.me/</a>
